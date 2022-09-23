@@ -18,7 +18,7 @@ body {
 
  h1 {
     /* border: solid 10px blueviolet; */
-    padding: 5px 15px;
+    /* padding: 5px 15px; */
     /* padding-top: 5px;
     padding-right: 15px;
     padding-bottom: 5px;
@@ -115,4 +115,14 @@ body {
 .footer .container {
     display: flex;
     justify-content: center;
+}
+
+.header ul #aqui {
+    font-weight: 1000;
+    color: #32b9cd;
+}
+
+a {
+    color: #e3b062;
+    text-decoration: none;
 }
