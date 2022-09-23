@@ -36,12 +36,12 @@ body {
 
 .navbar {
     display: flex;
-    width: 600px;
+    width: 400px;
     justify-content: space-around;
     color: #eeb062;
     list-style: none;
     align-items: center;
-}
+    }
 
 /* li {
     border: solid 3px rgb(253, 253, 130);
